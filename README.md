@@ -9,7 +9,7 @@ This portfolio showcases selected examples of my work, demonstrating my ability 
 * UX writing
 
 ## Contact me ##
-If you are interested in my work and woul like to get in touch, you can reach me at:
+If you are interested in my work and would like to get in touch, you can reach me at:
 
 📧 jeannelonergan@hotmail.com
 
