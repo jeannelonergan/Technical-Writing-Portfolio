@@ -15,4 +15,4 @@ If you are interested in my work and would like to get in touch, you can reach m
 
 💼 https://www.linkedin.com/in/jeanne-lonergan/
 
-Thank you for visiting my portfolio. I look forward to the possibility of working together.
+
