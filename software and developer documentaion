@@ -1,7 +1,12 @@
 Software and developer documentation
 
-Project overview
+Project overview 
+The PowerFlex API provides unified, secure, and consistent access to manage storage infrastructure through automation, enabling integration with DevOps tools and workflows.
+
 Audience
+The audience for the PowerFlex API is develoeprs and customers who are using the PowerFlex Block REST API to deploy block storage on PowerFlex nodes and the PowerFlex Manager REST API to manage and orchestrate their PowerFlex Nodes.
+
 Objective
+The 
 Your role
 Deliverable
