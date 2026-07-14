@@ -4,10 +4,10 @@ I am a Principal Technical Content Developer with over 15 years experience desig
 This portfolio showcases selected examples of my work, demonstrating my ability to simplify complex information, improve content usability, and deliver documentation solutions that support both business objectives and user success.
 
 ## Selected examples ##
-* UX writing
-* User Guide
+* API documentation
 * Software documentation
-* API reference and conceptual information
+* User Guide
+* UX writing
 
 ## Contact me ##
 If you are interested in my work and woul like to get in touch, you can reach me at:
