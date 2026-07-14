@@ -11,6 +11,7 @@ This portfolio showcases selected examples of my work, demonstrating my ability 
 ## Contact me ##
 If you are interested in my work and woul like to get in touch, you can reach me at:
 📧 jeannelonergan@hotmail.com
+
 💼 https://www.linkedin.com/in/jeanne-lonergan/
 
 Thank you for visiting my portfolio. I look forward to the possibility of working together.
