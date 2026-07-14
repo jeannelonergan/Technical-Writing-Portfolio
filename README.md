@@ -5,11 +5,7 @@ This portfolio showcases selected examples of my work, demonstrating my ability 
 
 ## Selected examples ##
 * Software and developer documentation
-   * API reference documentation
-   * API conceptual information
 * User documentation
-   * User Guide
-   * Software Administration
 * UX writing
 
 ## Contact me ##
