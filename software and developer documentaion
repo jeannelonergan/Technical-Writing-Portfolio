@@ -7,11 +7,11 @@ Audience
 The audience for the PowerFlex API is developers and customers who are using the PowerFlex Block REST API to deploy block storage on PowerFlex nodes and the PowerFlex Manager REST API to manage and orchestrate their PowerFlex Nodes.
 
 Objective
-The objecive was to colloborate with Engineering and User Experience Design to create APi documnetation that reflected the new PowerFlex deployment method. The documentaton needed to provide reference information that enables the user to deploy 
+The objecive was to colloborate with Engineering and the User Experience Design group to create APi documentation that reflected the new PowerFlex node deployment method through an initil Welcome wizard. The documentaton needed to provide reference information that enables the user to deploy 
 PowerFlex nodes using the APIs.
 
 Your role
-My role was as lead API documentation writer on the project. 
+My role was lead API documentation writer on the project. 
 
 Deliverable
 The deliverables were the following:
