@@ -4,9 +4,17 @@ Project overview
 The PowerFlex API provides unified, secure, and consistent access to manage storage infrastructure through automation, enabling integration with DevOps tools and workflows.
 
 Audience
-The audience for the PowerFlex API is develoeprs and customers who are using the PowerFlex Block REST API to deploy block storage on PowerFlex nodes and the PowerFlex Manager REST API to manage and orchestrate their PowerFlex Nodes.
+The audience for the PowerFlex API is developers and customers who are using the PowerFlex Block REST API to deploy block storage on PowerFlex nodes and the PowerFlex Manager REST API to manage and orchestrate their PowerFlex Nodes.
 
 Objective
-The 
+The objecive was to colloborate with Engineering and User Experience Design to create APi documnetation that reflected the new PowerFlex deployment method. The documentaton needed to provide reference information that enables the user to deploy 
+PowerFlex nodes using the APIs.
+
 Your role
+My role was as lead API documentation writer on the project. My respobsibities involved designing the conceptual workflows which the user would have to go through to use the API. I also hadto ensure that the reference documnetation 
+was aligned with both company and API writing standards and terminology and branding guidleines.
+
 Deliverable
+The deliverables were the following:
+* API reference documentation: [PowerFlex Manager Bootstrapper API 4.8.0] (https://developer.dell.com/apis/4008/versions/4.5.5-Manager_v4-8-0/modules/7224)
+* API conceptual documentation: [Getting started deploying PowerFlex nodes] (https://developer.dell.com/apis/4008/versions/4.5.5-Manager_v4-8-0/getting-started-with-deploying-powerflex-nodes-10344m0
